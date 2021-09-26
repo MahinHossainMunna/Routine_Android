@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Class Routine</string>
+    <string name="welcome_text"><![CDATA[Welcome! Select your Department & Level-Term to get your routine.]]></string>
+    <string name="department">Department*</string>
+    <string name="submit">SUBMIT</string>
+    <string name="level">Level-Term*</string>
+
+    <string-array name="array_departments">
+        <item>Select Your Department</item>
+        <item>CSE</item>
+        <item>EEE</item>
+        <item>CE</item>
+        <item>BBA</item>
+        <item>Eng</item>
+        <item>Law</item>
+    </string-array>
+
+    <string-array name="array_default_level">
+        <item>Select Your Level-Term</item>
+    </string-array>
+
+    <string-array name="array_CSE">
+        <item>Select Your Level-Term</item>
+        <item>Level-1 Term-I</item>
+        <item>Level-1 Term-II</item>
+        <item>Level-2 Term-I</item>
+        <item>Level-2 Term-II</item>
+        <item>Level-3 Term-I</item>
+        <item>Level-3 Term-II</item>
+        <item>Level-4 Term-I</item>
+        <item>Level-4 Term-II</item>
+    </string-array>
+
+    <string-array name="array_EEE">
+        <item>Select Your Level-Term</item>
+        <item>Level-1 Term-I</item>
+        <item>Level-1 Term-II</item>
+        <item>Level-2 Term-I</item>
+        <item>Level-2 Term-II</item>
+        <item>Level-3 Term-I</item>
+        <item>Level-3 Term-II</item>
+        <item>Level-4 Term-I</item>
+        <item>Level-4 Term-II</item>
+    </string-array>
+
+    <string-array name="array_CE">
+        <item>Select Your Level-Term</item>
+        <item>Level-1 Term-I</item>
+        <item>Level-1 Term-II</item>
+        <item>Level-2 Term-I</item>
+        <item>Level-2 Term-II</item>
+        <item>Level-3 Term-I</item>
+        <item>Level-3 Term-II</item>
+        <item>Level-4 Term-I</item>
+        <item>Level-4 Term-II</item>
+    </string-array>
+
+    <string-array name="array_DBA">
+        <item>Select Your Level-Term</item>
+        <item>Level-1 Term-I</item>
+        <item>Level-1 Term-II</item>
+        <item>Level-2 Term-I</item>
+        <item>Level-2 Term-II</item>
+        <item>Level-3 Term-I</item>
+        <item>Level-3 Term-II</item>
+        <item>Level-4 Term-I</item>
+        <item>Level-4 Term-II</item>
+    </string-array>
+
+    <string-array name="array_LAW">
+        <item>Select Your Level-Term</item>
+        <item>Level-1 Term-I</item>
+        <item>Level-1 Term-II</item>
+        <item>Level-2 Term-I</item>
+        <item>Level-2 Term-II</item>
+        <item>Level-3 Term-I</item>
+        <item>Level-3 Term-II</item>
+        <item>Level-4 Term-I</item>
+        <item>Level-4 Term-II</item>
+    </string-array>
+
+    <string-array name="array_ENG">
+        <item>Select Your Level-Term</item>
+        <item>Level-1 Term-I</item>
+        <item>Level-1 Term-II</item>
+        <item>Level-2 Term-I</item>
+        <item>Level-2 Term-II</item>
+        <item>Level-3 Term-I</item>
+        <item>Level-3 Term-II</item>
+        <item>Level-4 Term-I</item>
+        <item>Level-4 Term-II</item>
+    </string-array>
+</resources>

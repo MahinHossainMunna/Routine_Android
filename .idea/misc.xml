@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/drawable/border.xml" value="0.2796296296296296" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_cse11.xml" value="0.27447916666666666" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_cse12.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_cse21.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_cse22.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_cse31.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_cse32.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_cse41.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_cse42.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_eee11.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_eee12.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_eee21.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_eee22.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_eee31.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_eee32.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_eee41.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_eee42.xml" value="0.14375" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/activity_main2.xml" value="0.176" />
+        <entry key="..\:/AndroidApps/MyApplication1/app/src/main/res/layout/spinner_layout.xml" value="0.14375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
